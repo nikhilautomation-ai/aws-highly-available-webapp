@@ -1,0 +1,29 @@
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+credentials
+credentials.*
+
+# AWS local files
+.aws/
+
+# Archives and deployment packages
+*.zip
+*.tar
+*.tar.gz
+
+# Documents and private evidence
+*.docx
+*.pdf
+screenshots-private/
+private/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
